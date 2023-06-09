@@ -70,5 +70,8 @@
     "vue-loader": "^16.2.0",
     "yarn": "^1.22.10"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue-docgen-api": "^4.40.0"
+  }
 }
