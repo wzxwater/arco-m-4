@@ -10,7 +10,7 @@ module.exports = {
   // initial meta for 'arco generate'
   initialMeta: {
     // 修改此处为你的团队 ID
-    group: 1,
+    // group: 1,
   },
   // path of arco block insertion, relative to /src ('myPath' will be resolved as '/src/myPath')
   // pathBlockInsert: 'pathRelativeToSrc',
